@@ -1,8 +1,8 @@
 webstorm
 
-yarn
+yarn已安装
 
- git
+ git已安装
 
 # commons-lang3
 
